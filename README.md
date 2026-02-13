@@ -1,10 +1,10 @@
-# Puzzle-solver: Teaching My Computer to do do Puzzles
+# Puzzle-solver: Teaching My Computer how to do Puzzles
 
 I decided to see if I could automate the most frustrating part of a puzzle: finding where the pieces go. This project uses Computer Vision (OpenCV and Python) to take images of scattered pieces and "snap" them into their correct positions on a reference board.
 
 ---
 
-# Pipeline
+## Pipeline
 
 To get this working, I built a pipeline that follows these steps:
 
@@ -16,7 +16,7 @@ To get this working, I built a pipeline that follows these steps:
 
 ---
 
-# The Results
+## The Results
 
 ### Peppa Pig (The Easy One)
 This was the most successful run because the colors are flat and the pieces were already separated.
